@@ -8,7 +8,7 @@ MM_servidor_STRING = "PROVIDER=SQLOLEDB;DATA SOURCE=LAPTOP-297K79P6\TLX_JAAG;UID
 
 
 <head>
-<title>Agenda</title>
+<title>Proyectp</title>
 <script type="text/JavaScript">
 <!--
 function MM_findObj(n, d) { //v4.01
